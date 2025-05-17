@@ -1,2 +1,3 @@
-# sri
-ram janaki baithe hai mere seene mein 
+# Sri
+Hello everyone Myself srikant 
+Welcome you all to my github account.....
